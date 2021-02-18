@@ -1,0 +1,10 @@
+# Run these commands in cmd
+# Change directory to the folder where main.py exists
+
+######################################################################################
+
+pip install pyautogui
+#
+pip install PyMsgBox
+#
+pip install opencv-python
